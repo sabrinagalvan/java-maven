@@ -1,0 +1,10 @@
+br/com/caelum/fj91/rh/persistencia/repositories/JpaFuncionarioRepository.class
+br/com/caelum/fj91/rh/persistencia/repositories/JpaReajusteRepository.class
+br/com/caelum/fj91/rh/persistencia/entities/FuncionarioEntity.class
+br/com/caelum/fj91/rh/persistencia/entities/CargoEntity.class
+br/com/caelum/fj91/rh/persistencia/entities/ReajusteEntity.class
+br/com/caelum/fj91/rh/persistencia/repositories/JpaCargoRepository.class
+br/com/caelum/fj91/rh/persistencia/converters/ReajusteEntityConverter.class
+br/com/caelum/fj91/rh/persistencia/converters/CargoEntityConverter.class
+br/com/caelum/fj91/rh/persistencia/converters/FuncionarioEntityConverter.class
+br/com/caelum/fj91/rh/persistencia/JpaConfiguration.class

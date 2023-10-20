@@ -1,0 +1,10 @@
+/home/sabrinagalvan/workspace-java/java-maven/clean-architecture/rh-persistencia/src/main/java/br/com/caelum/fj91/rh/persistencia/entities/ReajusteEntity.java
+/home/sabrinagalvan/workspace-java/java-maven/clean-architecture/rh-persistencia/src/main/java/br/com/caelum/fj91/rh/persistencia/converters/FuncionarioEntityConverter.java
+/home/sabrinagalvan/workspace-java/java-maven/clean-architecture/rh-persistencia/src/main/java/br/com/caelum/fj91/rh/persistencia/entities/CargoEntity.java
+/home/sabrinagalvan/workspace-java/java-maven/clean-architecture/rh-persistencia/src/main/java/br/com/caelum/fj91/rh/persistencia/entities/FuncionarioEntity.java
+/home/sabrinagalvan/workspace-java/java-maven/clean-architecture/rh-persistencia/src/main/java/br/com/caelum/fj91/rh/persistencia/converters/ReajusteEntityConverter.java
+/home/sabrinagalvan/workspace-java/java-maven/clean-architecture/rh-persistencia/src/main/java/br/com/caelum/fj91/rh/persistencia/converters/CargoEntityConverter.java
+/home/sabrinagalvan/workspace-java/java-maven/clean-architecture/rh-persistencia/src/main/java/br/com/caelum/fj91/rh/persistencia/JpaConfiguration.java
+/home/sabrinagalvan/workspace-java/java-maven/clean-architecture/rh-persistencia/src/main/java/br/com/caelum/fj91/rh/persistencia/repositories/JpaFuncionarioRepository.java
+/home/sabrinagalvan/workspace-java/java-maven/clean-architecture/rh-persistencia/src/main/java/br/com/caelum/fj91/rh/persistencia/repositories/JpaCargoRepository.java
+/home/sabrinagalvan/workspace-java/java-maven/clean-architecture/rh-persistencia/src/main/java/br/com/caelum/fj91/rh/persistencia/repositories/JpaReajusteRepository.java
